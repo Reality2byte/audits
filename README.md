@@ -1369,6 +1369,21 @@ An audit of Easy Track factory for Deposit Reserve Target management.
 
 See [full report](MixBytes%20Easy%20Track%20for%20Deposit%20Reserve%20Target%20management%20Audit%20Report%2009-2026.pdf) for more details.
 
+### 09-2026 Composable Security Lido Oracle v8.1 Security Audit
+
+Audited at commit [`032c228`](https://github.com/lidofinance/lido-oracle/tree/032c228c767759e67da43e6c40fa81732257879d).
+
+A security review of the Lido Oracle v8.1 change set, which adds support for the Execution Delegation Framework (LIP-37), including a retest. Previous [report for V8](#06-2026-composable-security-lido-oracle-v8-security-audit).
+
+- Total Issues: 4 (3 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 2 (2 Fixed)
+- Info Issues: 2 (1 Fixed, 1 Acknowledged)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V8_1%20Audit%20Report.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
